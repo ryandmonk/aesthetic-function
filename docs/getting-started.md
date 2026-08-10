@@ -11,7 +11,7 @@ This guide walks through setting up Aesthetic Function from a fresh clone to you
 ## 1. Install
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/aestheticfunction/aesthetic-function
 cd aesthetic-function
 pnpm install
 ```
